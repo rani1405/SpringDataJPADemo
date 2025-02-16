@@ -1,6 +1,9 @@
 # SpringDataJPADemo
-This is sample app for spring data JPA
-1.Rest API
-2.Spring Data JPA
-3.Send Email using SMTP
+This is sample app covers demo for
+1)Spring Data JPA- mysql database with flyway
+2)ShedLock example in spring boot
+3)Redis cache implementation
+5)Spring boot Actuator
+6)Spring data JPA queries
+
 
